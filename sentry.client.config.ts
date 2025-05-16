@@ -12,6 +12,10 @@ Sentry.init({
     Sentry.feedbackIntegration({
       // Additional SDK configuration goes in here, for example:
       colorScheme: "system",
+      themeLight: {
+        left: "auto",
+        right: "1rem"
+      },
     }),
   ],
 
