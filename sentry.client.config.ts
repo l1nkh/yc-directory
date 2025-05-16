@@ -12,8 +12,6 @@ Sentry.init({
     Sentry.feedbackIntegration({
       // Additional SDK configuration goes in here, for example:
       colorScheme: "system",
-      isNameRequired: true,
-      isEmailRequired: true,
     }),
   ],
 

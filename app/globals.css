@@ -220,3 +220,8 @@
 .w-md-editor-toolbar {
   padding: 10px !important;
 }
+
+#sentry-user-feedback {
+  right: auto !important;
+  left: 1rem !important;
+}
