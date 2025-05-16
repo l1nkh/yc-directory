@@ -54,7 +54,7 @@ const page = async ({ params }: { params: Promise<{ id: string }> }) => {
                                 alt="avatar"
                                 width={64}
                                 height={64}
-                                className="rounded-full drop-shadow-lg"
+                                className="rounded-full drop-shadow-lg h-revert max-h-[64px] max-w-[64px]"
                             />
 
                             <div>
